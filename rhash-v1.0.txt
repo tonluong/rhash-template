@@ -1,0 +1,1 @@
+{"crc32":"%{crc32}", "crc32c":"%{crc32c}", "md5":"%{md5}", "sha1":"%{sha1}", "sha256":"%{sha-256}", "sha512":"%{sha-512}", "tiger":"%{tiger}", "whirlpool":"%{whirlpool}", "ripemd160":"%{ripemd160}", "filename":"%f", "filesize":"%s", "mtime":"%{mtime}", "_ver":"1.0" }\n
